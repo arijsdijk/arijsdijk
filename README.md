@@ -10,7 +10,7 @@
 - 🔭 I'm currently working on **exciting projects**
 - 🌱 I'm currently learning **new technologies and frameworks**
 - 💬 Ask me about **software development, coding, and technology**
-- 📫 How to reach me: **arijsdijk@github.com**
+- 📫 How to reach me: **[@arijsdijk](https://github.com/arijsdijk)**
 - ⚡ Fun fact: **I love solving complex problems with elegant code**
 
 ## 🛠️ Languages and Tools
