@@ -6,11 +6,6 @@ My first introduction to the Power Platform showed me how much impact smart low-
 
 I also love sharing that passion as a speaker. At events and sessions, I talk about the Power Platform, my experiences and the lessons I pick up along the way.
 
-**Learn something new every day. Stay Hungry. Stay Foolish.**
+Learn something new every day. Stay Hungry. Stay Foolish.
 
 
-## Blog
-
-## Sessions
-
-## Contact
