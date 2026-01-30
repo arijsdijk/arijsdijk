@@ -18,3 +18,12 @@ See a list of my latest blogposts below.
 * [What the Fx! ... User Defined Functions](https://www.linkedin.com/pulse/what-fx-user-defined-functions-arjan-rijsdijk-x8pye/?trackingId=iy27NHY6RsefoEzBbenFpg%3D%3D)
 * [Create breadcrumbs in your Power App](https://www.linkedin.com/pulse/create-breadcrumbs-your-power-app-arjan-rijsdijk-53iee/?trackingId=iy27NHY6RsefoEzBbenFpg%3D%3D)
 
+
+## Sessions
+
+See a list for upcoming sessions below. 
+
+* [Canadian Power Platform Summit]
+* [Colorcloud]
+* [Micrososft Engineering Summit]
+* [ECS BizApps Summit]
