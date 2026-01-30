@@ -9,3 +9,11 @@ I also love sharing that passion as a speaker. At events and sessions, I talk ab
 Learn something new every day. Stay Hungry. Stay Foolish.
 
 
+
+## Blogposts
+
+See a list of my latest blogposts below.
+
+* [Prebuilt AI Prompts in the Power Platform](https://www.linkedin.com/pulse/prebuilt-ai-prompts-arjan-rijsdijk-qox5e/?trackingId=iy27NHY6RsefoEzBbenFpg%3D%3D)
+* [What the Fx! ... User Defined Functions](https://www.linkedin.com/pulse/what-fx-user-defined-functions-arjan-rijsdijk-x8pye/?trackingId=iy27NHY6RsefoEzBbenFpg%3D%3D)
+
